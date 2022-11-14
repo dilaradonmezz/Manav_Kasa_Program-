@@ -1,4 +1,4 @@
-# Manav_Kasa_Program-
+# Manav_Kasa_Programı-
 Manav Kasa Hesaplamasını Yapan Program
 
 package Giris;
